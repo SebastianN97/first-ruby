@@ -22,7 +22,10 @@ my_group = [person_1, person_2, person_3]
 
 
 
-
+#solve this!!!!! 
+person_1.each do |key, value|
+    puts value
+end
 
 
 

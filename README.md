@@ -1,6 +1,1 @@
 # ruby-excercises
-
-
-help
-
-

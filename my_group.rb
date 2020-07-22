@@ -6,7 +6,7 @@ person_1 = {
     age: 22
     }
 person_2 = {
-     name: "Jenny",
+    name: "Jenny",
     gender: "female",
     age: 24
     }

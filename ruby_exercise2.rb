@@ -14,6 +14,11 @@ hash2.merge!(family)
 
 # Merge
 
+hash1 = {"Sebastian"}
+hash2 = {"Jenny", "Sara"}
 
 
 
+hash1.merge(hash2) #???
+
+# Combine hash1 and hash2!!!

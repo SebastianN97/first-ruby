@@ -16,3 +16,9 @@ In 40 years you will be:
 
 
 
+
+
+10.times {puts "Hello Sebastian"}
+
+
+10.times {}

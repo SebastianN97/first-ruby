@@ -41,12 +41,12 @@ arr = [15, 7, 18, 5, 12, 8, 5, 1]
 # What is the value of a,b and c in the following program? #
 
 string = "Welcome to America"
+ 
+a = string[6]       # e
 
-a = string[6]
+b = string[11]      # A
 
-b = string[11]
-
-c = string[19]
+c = string[19]      # No value
 
 
 # You run the following code.. Get the an error message.. What is the problem and how can it be fixed? #

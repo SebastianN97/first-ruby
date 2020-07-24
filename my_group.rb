@@ -15,11 +15,11 @@ person_3 = {
     gender: "female",
     age: 33
     } 
+
+my_group = [person_1, person_2, person_3] 
+
+
 puts "#{person_1[:name]} is a #{person_1[:gender]} with the age of: #{person_1[:age]}"
 puts "#{person_2[:name]} is a #{person_2[:gender]} with the age of: #{person_2[:age]}"
 puts "#{person_3[:name]} is a #{person_3[:gender]} with the age of: #{person_3[:age]}"
 
-
-
-
-####my_group = [person_1, person_2, person_3] .... ARRAY

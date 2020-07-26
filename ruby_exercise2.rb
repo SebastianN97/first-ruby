@@ -14,11 +14,28 @@ hash2.merge!(family)
 
 # Merge
 
-hash1 = {"Sebastian"}
-hash2 = {"Jenny", "Sara"}
+family = {  uncles: ["bob", "joe", "steve"],
+            sisters: ["jane", "jill", "beth"],
+}
+
+craft = {   brothers: ["frank", "rob", "david"],
+            aunts: ["mary", "sally", "susan"]
+}
+
+family.merge(craft)
 
 
+# How would you access the name of the person?
 
-hash1.merge(hash2) #???
+person = {name: 'Bob', occupation: 'web developer', hobbies: 'painting'}
 
-# Combine hash1 and hash2!!!
+puts "#{person[:name]}"
+
+
+# Given the following code. Whats the difference between the two hashes that were created?
+
+x = "hi there"
+my_hash = {x: "some value"}
+my_hash2 = {x => "some value"}
+
+
